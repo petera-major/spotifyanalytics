@@ -67,7 +67,7 @@ An end-to-end analytics project combining my **Apple Watch fitness data** and my
 ---
 
 ## Why This Matters
-This project isn’t just about SQL and Power BI — it’s about **turning personal data into meaningful insights**.  
+My project isn’t just about SQL and Power BI but it’s about **turning personal data into meaningful insights**.  
 It shows my ability to:  
 - Ingest and model multi-source data (CSV, API-style exports)  
 - Write analytical SQL (joins, views, aggregations)  

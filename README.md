@@ -49,13 +49,13 @@ An end-to-end analytics project combining my **Apple Watch fitness data** and my
 
 ### 2. Workout Intensity by Music Genre 
 
-![Mood vs Performance](images/intensity.png)
+![Mood vs Performance](visuals/intensity.png)
 
 ---
 
 ### 3. Sleep & Wellness Over Time  
 
-![Sleep Trends](images/wellness.png)
+![Sleep Trends](visuals/wellness.png)
 
 ---
 
